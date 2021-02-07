@@ -1,6 +1,6 @@
 # f_mobx_example
 
-A new Flutter project.
+Using mobx
 
 ## Getting Started
 
